@@ -1,4 +1,7 @@
-﻿namespace HRSystemDB.Domain.Entities
+﻿using HRSystem.Domain.Entities;
+using HRSystemDB.Domain.Enums;
+
+namespace HRSystemDB.Domain.Entities
 {
     public class Employee : BaseEntity
     {

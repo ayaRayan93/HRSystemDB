@@ -1,4 +1,6 @@
-﻿namespace HRSystem.Domain.Entities
+﻿using HRSystemDB.Domain.Entities;
+
+namespace HRSystem.Domain.Entities
 {
     public class Department : BaseEntity
     {
